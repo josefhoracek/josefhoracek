@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @josefhoracek
-- 👀 I’m interested in full-stack software development
-- 🌱 I’m currently learning Python, SQL, HTML/CSS
-- 💞️ I’m looking to collaborate on: hmm, too soon?
+- 👀 I’m interested in full-stack software development but keeping my options open
+- 🌱 I’m currently learning Python, SQL, HTML/CSS, Google Colab
+- 💞️ I’m beginning to explore contributing to open-source projects
 - 📫 How to reach me: find me on the lsu.edu website
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a runner
 
-[![An image of @josefhoracek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/josefhoracek)]
+![An image of @josefhoracek's Holopin badges showing participation in Hacktoberfest 2025](https://holopin.me/josefhoracek)
 
 <!---
 josefhoracek/josefhoracek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
